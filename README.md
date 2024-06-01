@@ -1,2 +1,13 @@
+zotero plugin for QuickLook
 
-zotero plugin
+Use [QuickLook](https://github.com/QL-Win/QuickLook) to view previews.
+
+
+zotero version: 6
+
+
+
+
+
+
+https://github.com/wasabi-glenflog/zoteroQuicklookWin
