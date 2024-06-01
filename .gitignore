@@ -1,0 +1,11 @@
+.git
+
+*.so
+
+
+.cache
+*.log
+
+
+README_dev.md
+

@@ -1,0 +1,2 @@
+zoteroQuicklookWin =
+    .label = zotero Quicklook Win

@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "zoteroQuicklookWin",
+	"version": "1.2",
+	"description": "windows Quicklook",
+	"homepage_url": "https://github.com/wasabi-glenflog/zoteroQuicklookWin",
+	"applications": {
+		"zotero": {
+			"id": "zoteroQuicklookWin@example.com",
+			"update_url": "https://zotero-download.s3.amazonaws.com/tmp/make-it-red/updates-1.2.json",
+			"strict_min_version": "6.999",
+			"strict_max_version": "7.0.*"
+		}
+	}
+}
